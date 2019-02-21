@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background: url("https://i.ibb.co/gMK90Mq/walhalla-962171-640.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: 'Charm', cursive;
+}
+
+p {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 1), rgba(255, 255, 255, 0));
+    font-size: 40px;
+    color: white;
+}
+
+div {
+    margin: 30% auto;
+}
